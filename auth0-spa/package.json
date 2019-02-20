@@ -1,0 +1,20 @@
+{
+  "name": "auth0-google",
+  "version": "1.0.0",
+  "description": "illustrating login with google using auth0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -p 8080",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auth0-js": "^9.8.2",
+    "bootstrap": "^3.4.0"
+  },
+  "devDependencies": {
+    "auth0-quickstarts-tester": "0.1.0",
+    "serve": "^10.1.1"
+  }
+}
